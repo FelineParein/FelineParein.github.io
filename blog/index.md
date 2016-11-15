@@ -3,4 +3,4 @@ layout: site
 ---
 # My blog
 
-{% include posts.html %}
+{% include posts.html posts="2" %}
