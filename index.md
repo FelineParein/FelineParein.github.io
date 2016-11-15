@@ -8,4 +8,3 @@ Welcome to my first GibHub Pages website!
 Using Markdown!
 
 [Mijn cv](cv)
-
