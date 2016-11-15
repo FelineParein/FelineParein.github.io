@@ -1,4 +1,5 @@
 ---
+layout: site
 ---
 # Feline's Website
 Welcome to my first GibHub Pages website!
