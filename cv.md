@@ -1,8 +1,8 @@
 ---
 layout: site
 ---
-#Mijn CV
+# Mijn CV
 
-##Opleidingen  
+## Opleidingen  
 Industriële ingenieurs wetenschappen
 
